@@ -1,3 +1,5 @@
-Splitting({
-	whitespace: true
-})
+$(function () {
+	Splitting({
+		whitespace: true
+	})
+});
